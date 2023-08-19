@@ -7,3 +7,6 @@
 - HTML
 - CSS
 - Bootstrap
+
+## 📌 Deployment
+<em>GitHub Pages: </em> http://shahbozjon.github.io/findyourjob
